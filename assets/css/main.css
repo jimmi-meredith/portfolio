@@ -163,6 +163,14 @@ input, select, textarea {
 		font-style: italic;
 	}
 
+	.project-title {
+		font-weight: 999;
+	}
+
+	.project-descripton {
+		margin: 0;
+	}
+
 	a {
 		text-decoration: none;
 		color: inherit;
